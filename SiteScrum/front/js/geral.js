@@ -1,5 +1,6 @@
-const urlbase = "http://localhost:3030";
+// const urlbase = "http://localhost:3030";
 //const urlbase = "https://abp-1dsm-server.onrender.com";
+const urlbase = "https://dsm-1.onrender.com";
 // Variável usada para manter os dados do usuário logado
 // A função carregarLogin verifica se o usuário está logado e carrega na variável usuarioLogado
 let usuarioLogado = undefined;
