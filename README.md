@@ -225,8 +225,6 @@ Otimização do Burndown focando manter as entregas dentro do eixo ideal. Além 
 
 ![Burndown](Documentos/burndownSprint3.png)
 
-<br>
-
 ### • Sprint Retrospective 
 <br>
 
