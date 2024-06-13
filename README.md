@@ -20,33 +20,32 @@
 
 <br>
 
-## :page_with_curl: Product Backlog 
+## :page_with_curl: Product Backlog
 
-> - RF - Requisito Funcional
+### REQUISITOS FUNCIONAIS
 
-> - RNF - Requisito Não Funcional
+| REQUISITO FUNCIONAL_ID | REQUISITOS                                                                                                 | SPRINTS |
+|------------------------|------------------------------------------------------------------------------------------------------------|---------|
+| RF - 1                 | Criação de um protótipo do site                                                                            | #01✔   |
+| RF - 2                 | Criar um Cadastro de usuário para o usuário se cadastrar                                                   | #03✔   |
+| RF - 3                 | Usuário deve ser capaz de fazer Login de Acesso utilizando email cadastrado                                | #02✔   |
+| RF - 4                 | Elaborar o Conteúdo do Curso, que será divido em aulas                                                     | #01✔ #02✔ |
+| RF - 5                 | Ao finalizar todas as aulas do conteúdo do curso, o usuário deve conseguir realizar uma Avaliação de Desempenho com 20 questões que devem ser sorteadas aleatoriamente | #01✔ #03✔ |
+| RF - 6                 | O usuário do site deve ser capaz de emitir Certificado de Conclusão ao finalizar o curso                   | #03✔   |
+| RF - 7                 | Criar o Modelo Visual do site                                                                              | #01✔   |
+| RF - 8                 | Navegabilidade do site                                                                                     | #01✔ #02✔ |
 
-| REQUISITO FUNCIONAL_ID | REQUISITOS                                                                                                     | SPRINTS |
-|------------------------|---------------------------------------------------------------------------------------------|----------------------------|
-| RF - 1                 | Criação de um protótipo do site                                                                                | #01 ✔   |
-| RF - 2                 | Criar um Cadastro de usuário para o usuário se cadastrar                                                       | #03 ✔  |
-| RF - 3                 | Usuário deve ser capaz de fazer Login de Acesso utilizando email cadastrado                                    | #02 ✔   |
-| RF - 4                 | Elaborar o Conteúdo do Curso, que será divido em aulas                                                         | #01 ✔ #02 ✔  |
-| RF - 5                 | Ao finalizar todas as aulas do conteúdo do curso, o usuário deve conseguir realizar uma Avaliação de Desempenho com 20 questoes que devem ser sorteadas aleatóriamente | #01 ✔ #03 ✔  |
-| RF - 6                 | O usuário do site deve ser capaz de emitir Certificado de Conclusão ao finalizar o curso                        |#03 ✔   |
-| RF - 7                 | Criar o Modelo Visual do site                                                                                  | #01 ✔   |
-| RF - 8                 | Navegabilidade do site                                                                                         | #01 ✔ #02 ✔  |
+### REQUISITOS NÃO FUNCIONAIS
 
-| REQUISITO NÃO_FUNCIONAL_ID | REQUISITOS                                     | SPRINTS |
-|----------------------------|------------------------------------------------|-------------|
-| RNF - 1                    | Utilizar HTML5 para arquitetura da informação da aplicação                 | #01 ✔ #02 ✔   |
-| RNF - 2                    | Utilizar CSS 3 para especificação do layout e demais características de renderização da interface com o usuário | #01 ✔ #02 ✔   |
-| RNF - 3                    | Utilizar JavaScript no front end (obs.: não pode fazer uso de frameworks)  |  #03 ✔  |
-| RNF - 4                    | Utilizar DB Design para fazer a modelagem do BD                            | #01 ✔   |
-| RNF - 5                    | Sistema responsivo                                                         | #03 ✔   |
-| RNF - 6                    | Utilizar o sistema gerenciador de banco de dados PostGresSQL               |  #02 ✔ #03 ✔ |
+| REQUISITO NÃO_FUNCIONAL_ID | REQUISITOS                                                                                          | SPRINTS     |
+|----------------------------|-----------------------------------------------------------------------------------------------------|-------------|
+| RNF - 1                    | Utilizar HTML5 para arquitetura da informação da aplicação                                          | #01✔ #02✔ |
+| RNF - 2                    | Utilizar CSS 3 para especificação do layout e demais características de renderização da interface com o usuário | #01✔ #02✔ |
+| RNF - 3                    | Utilizar JavaScript no front end (obs.: não pode fazer uso de frameworks)                           | #03✔       |
+| RNF - 4                    | Utilizar DB Design para fazer a modelagem do BD                                                     | #01✔       |
+| RNF - 5                    | Sistema responsivo                                                                                  | #03✔       |
+| RNF - 6                    | Utilizar o sistema gerenciador de banco de dados PostGresSQL                                        | #02✔ #03✔ |
 
-<br>
 
 ## :page_with_curl: USER STORIES
 
