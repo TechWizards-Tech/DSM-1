@@ -1,6 +1,6 @@
 <h1 align="center">Fatec Jacareí- DSM 1º SEMESTRE</h1>
 
-# <p>Equipe: 🪄:💻: TechWizards </p>
+# <p>Equipe:💻: TechWizards </p>
 <br>
 
 # SOBRE O PROJETO 
