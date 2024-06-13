@@ -6,6 +6,10 @@
 # SOBRE O PROJETO 
 ## <p align="justify"> Com o intuito de desenvolver uma aplicação Web usando metodologias ágeis a FATEC DE JACAREÍ propôs aos alunos do 1° semestre do curso de Desenvolvimento de Software Multiplataforma (DSM), o desenvolvimento de um curso online sobre o metodo ágil Scrum, que define-se como um framework de colaboração de equipe ágil comumente usado.</p>
 
+## Link para o Trello
+
+Clique [aqui](https://trello.com/invite/areadetrabalho41629874/ATTI6097fd5342bd7c33ed4d303ae13e59dcD299B0C7) para acessar o quadro do Trello do projeto.
+
 ## SPRINTS
 
 | Sprint | Link        | Início      | Entrega     | Status |
@@ -85,6 +89,7 @@
 | Leandro Barbosa    | Developer     | [gmlebc](https://github.com/gmlebc)|
 
 <br>
+
 
 ## LINGUAGENS E FERRAMENTAS
 <br>
