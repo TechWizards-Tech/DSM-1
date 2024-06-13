@@ -12,7 +12,7 @@
 |--------|-------------|-------------|-------------|--------|
 | 01     | [Sprint 01](#sprint-1) | 25/03/2024  | 18/04/2024  | ✔      |
 | 02     | [Sprint 02](#sprint-2) | 22/04/2024  | 15/05/2024  |  ✔     |
-| 03     | [Sprint 03](#sprint-3) | 20/05/2024  | 12/06/2024  |        |
+| 03     | [Sprint 03](#sprint-3) | 20/05/2024  | 12/06/2024  |  ✔     |
 
 <br>
 
@@ -27,24 +27,24 @@
 > - RNF - Requisito Não Funcional
 
 | REQUISITO FUNCIONAL_ID | REQUISITOS                                                                                                     | SPRINTS |
-|------------------------|----------------------------------------------------------------------------------------------------------------|---------|
+|------------------------|---------------------------------------------------------------------------------------------|----------------------------|
 | RF - 1                 | Criação de um protótipo do site                                                                                | #01 ✔   |
-| RF - 2                 | Criar um Cadastro de usuário para o usuário se cadastrar                                                       |         |
-| RF - 3                 | Usuário deve ser capaz de fazer Login de Acesso utilizando email cadastrado                                    |  |
+| RF - 2                 | Criar um Cadastro de usuário para o usuário se cadastrar                                                       | #03 ✔  |
+| RF - 3                 | Usuário deve ser capaz de fazer Login de Acesso utilizando email cadastrado                                    | #02 ✔   |
 | RF - 4                 | Elaborar o Conteúdo do Curso, que será divido em aulas                                                         | #01 ✔ #02 ✔  |
-| RF - 5                 | Ao finalizar todas as aulas do conteúdo do curso, o usuário deve conseguir realizar uma Avaliação de Desempenho com 20 questoes que devem ser sorteadas aleatóriamente | #01 ✔   |
-| RF - 6                 | O usuário do site deve ser capaz de emitir Certificado de Conclusão ao finalizar o curso                        |         |
+| RF - 5                 | Ao finalizar todas as aulas do conteúdo do curso, o usuário deve conseguir realizar uma Avaliação de Desempenho com 20 questoes que devem ser sorteadas aleatóriamente | #01 ✔ #03 ✔  |
+| RF - 6                 | O usuário do site deve ser capaz de emitir Certificado de Conclusão ao finalizar o curso                        |#03 ✔   |
 | RF - 7                 | Criar o Modelo Visual do site                                                                                  | #01 ✔   |
 | RF - 8                 | Navegabilidade do site                                                                                         | #01 ✔ #02 ✔  |
 
-| REQUISITO NÃO_FUNCIONAL_ID | REQUISITOS                                                                 | SPRINTS |
-|----------------------------|----------------------------------------------------|---------|
+| REQUISITO NÃO_FUNCIONAL_ID | REQUISITOS                                     | SPRINTS |
+|----------------------------|------------------------------------------------|-------------|
 | RNF - 1                    | Utilizar HTML5 para arquitetura da informação da aplicação                 | #01 ✔ #02 ✔   |
 | RNF - 2                    | Utilizar CSS 3 para especificação do layout e demais características de renderização da interface com o usuário | #01 ✔ #02 ✔   |
-| RNF - 3                    | Utilizar JavaScript no front end (obs.: não pode fazer uso de frameworks)  |         |
+| RNF - 3                    | Utilizar JavaScript no front end (obs.: não pode fazer uso de frameworks)  |  #03 ✔  |
 | RNF - 4                    | Utilizar DB Design para fazer a modelagem do BD                            | #01 ✔   |
-| RNF - 5                    | Sistema responsivo                                                         |         |
-| RNF - 6                    | Utilizar o sistema gerenciador de banco de dados PostGresSQL               |  #02 ✔ |
+| RNF - 5                    | Sistema responsivo                                                         | #03 ✔   |
+| RNF - 6                    | Utilizar o sistema gerenciador de banco de dados PostGresSQL               |  #02 ✔ #03 ✔ |
 
 <br>
 
@@ -84,6 +84,12 @@
 | Felipe Correa      | Developer     | [turnupthetaste](https://github.com/turnupthetaste) |
 | Pamela Freitas     | Developer     | [PaamFreitas18](https://github.com/PaamFreitas18) |
 | Leandro Barbosa    | Developer     | [gmlebc](https://github.com/gmlebc)|
+
+<br>
+
+## LINGUAGENS E FERRAMENTAS
+<br>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
 <br>
 
@@ -187,10 +193,8 @@ Otimização do Burndown focando manter as entregas dentro do eixo ideal. Além 
 <span id="sprint-3">   
 
 ## :page_with_curl: SPRINT 3
-  <p align="justify">Na Sprint 3, nossa equipe focou no desenvolvimento e aprimoramento do sistema, implementando funcionalidades cruciais e otimizando a experiência do usuário. Realizamos com sucesso o cadastro de usuários, login robusto, obtenção e exibição dinâmica de questões, salvamento de pontuações e recuperação de questões respondidas. Otimizamos o código, adotamos design responsivo, desenvolvemos sistema automatizado para geração de certificados e aprimoramos a arquitetura da informação. Configuramos o backend no servidor Render, assegurando estabilidade e compatibilidade.</p>
 
-
-
+<p align="justify">Na Sprint 3, nossa equipe focou no desenvolvimento e aprimoramento do sistema, implementando funcionalidades cruciais e otimizando a experiência do usuário. Realizamos com sucesso o cadastro de usuários, login robusto, obtenção e exibição dinâmica de questões, salvamento de pontuações e recuperação de questões respondidas. Otimizamos o código, adotamos design responsivo, desenvolvemos sistema para geração de certificados e aprimoramos a arquitetura da informação. Configuramos o backend no servidor Render, assegurando estabilidade e compatibilidade.</p>
 
 ### • Sprint Backlog 
 | ID REFERENCIA | Scrum Poker Planning | ATIVIDADE | REQUISITO DA SPRINT | Responsável | TAREFA CONCLUIDA |
@@ -198,12 +202,22 @@ Otimização do Burndown focando manter as entregas dentro do eixo ideal. Além 
 | RNF - 1       | 5  | Cadastrar usuário no SGBD | Deve ser possível realizar o cadastro do usuário usando nome e email | Felipe | ✔  |
 | RNF - 2       | 5  | Login de usuário no servidor| O usuário deve ser capaz de realizar login em sua conta usando nome e email | Felipe | ✔  |
 | RNF - 1       | 13 | Obter as questões no front end| Integrar JS e HTML/CSS para obter questões na página de questões | Maria Eduarda e Raquel  | ✔  |
-| RNF - 2       | 13 | Salvar pontuação| O sistema deve ser capaz de salvar a pontuação no BD | Pamela|   |
-| RNF - 1       | 13 | Recuperar questões respondidas no servidor | O sistema deve ser capaz de guardar e consultar as questões que já foram respondidas pelo usuário| Felipe |    |
-| RNF - 2       | 21 | Organização do código (CSS e JS externo; estrutura das marcações, estilos e JS)| Fazer a organização e associar o JS ao CSS | Polly e Bruna |   |
+| RNF - 2       | 13 | Salvar pontuação| O sistema deve ser capaz de salvar a pontuação no BD | Pamela| ✔  |
+| RNF - 1       | 13 | Recuperar questões respondidas no servidor | O sistema deve ser capaz de guardar e consultar as questões que já foram respondidas pelo usuário| Felipe |  ✔  |
+| RNF - 2       | 21 | Organização do código (CSS e JS externo; estrutura das marcações, estilos e JS)| Fazer a organização e associar o JS ao CSS | Polly e Bruna |✔  |
 | RNF - 1       | 13 | Visual responsivo (uso de CSS média queries) |Fazer o site se adaptar bem em diferente dispositivos, melhorando a experiência do usuário | Polly e Leandro | ✔  |
-| RNF - 2       | 8  | Gerar certificado | Consultar as informações do usuário no site para emitir certificado, caso o usuário se qualifique para obtê-lo | Raquel |    |
+| RNF - 2       | 8  | Gerar certificado | Consultar as informações do usuário no site para emitir certificado, caso o usuário se qualifique para obtê-lo | Raquel | ✔  |
 | RNF - 1       | 8  | Página de questões |O sistema deve ser capaz de exibir a página de questões| Maria Eduarda e Bruna| ✔  |
 | RNF - 2       | 8  | Arquitetura da informação | Fazer um modelo/conceito de informação para detalhar o sistema | Pamela | ✔ |
 | RF - 8        |  8 | Consultas para atualizar registros|O BD deve ser persistente e ser capaz de sofrer atualizações nos registros de usuários |Leandro e Felipe |  ✔  |
-| RNF - 4       | 13 | Execução do back end em linux| Usar a ferramenta da Azure para criar uma instância para fazer rodar o Linux | Leandro |  |
+| RNF - 4       | 13 | Execução do back end em linux| Usar a ferramenta da Azure para criar uma instância para fazer rodar o Linux | Leandro | ✔  |
+
+<br>  
+
+### • Burndown Sprint 3
+
+<br>
+
+![Burndown](Documentos/burndownSprint3.png)
+
+<br>
