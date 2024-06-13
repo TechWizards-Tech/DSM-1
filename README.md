@@ -190,7 +190,6 @@ Otimização do Burndown focando manter as entregas dentro do eixo ideal. Além 
 <br>
 <span id="sprint-3">
  
-## :page_with_curl: SPRINT 2 
  <p align="justify">Na Sprint 3, nossa equipe focou no desenvolvimento e aprimoramento do sistema, implementando funcionalidades cruciais e otimizando a experiência do usuário. Realizamos com sucesso o cadastro de usuários, login robusto, obtenção e exibição dinâmica de questões, salvamento de pontuações e recuperação de questões respondidas. Otimizamos o código, adotamos design responsivo, desenvolvemos sistema automatizado para geração de certificados e aprimoramos a arquitetura da informação. Configuramos o backend no servidor Render, assegurando estabilidade e compatibilidade.</p>
 
 
