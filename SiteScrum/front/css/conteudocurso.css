@@ -96,8 +96,6 @@ main {
     flex-grow: 1;
     overflow:hidden;
     height: 100vh;
-   
-
 }
 
 p {
@@ -188,7 +186,7 @@ section .sobre-conteudo, .titulo {
     border: 2px solid #0a6872;
 }
 .especial p{
-    width:60%;
+    width:80%;
     text-align:left;
 }
 p {
