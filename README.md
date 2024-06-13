@@ -183,6 +183,7 @@ Podemos revisar e aprimorar nossas práticas de desenvolvimento, identificando �
 <br>
 
 **1. O que funcionou bem durante o sprint?**
+<br>
 Conseguimos padronizar uma base sólida de HTML e CSS para as páginas, o que é crucial para garantir consistência e facilitar a manutenção. Além disso, a conexão dos links foi bem-sucedida, permitindo uma navegação eficaz entre as diferentes partes do sistema. A criação das tabelas de banco de dados foi outro ponto positivo, fornecendo uma estrutura robusta para o gerenciamento de dados. Por fim, a garantia de que todas as consultas retornem resultados corretos demonstra um cuidado meticuloso com a integridade dos dados e uma compreensão sólida dos requisitos do projeto. Esses sucessos refletem um trabalho eficiente e bem executado durante o sprint.
 
 **2. O que não funcionou tão bem durante o sprint?**
@@ -225,3 +226,15 @@ Otimização do Burndown focando manter as entregas dentro do eixo ideal. Além 
 ![Burndown](Documentos/burndownSprint3.png)
 
 <br>
+
+### • Sprint Retrospective 
+<br>
+
+**1. O que funcionou bem durante o sprint?**
+<br>
+Durante o sprint, destacaram-se vários elementos que contribuíram significativamente para o progresso e a finalização do projeto. Em particular, a integração entre o banco de dados e o JavaScript foi executada de maneira eficiente, facilitando a manipulação de dados de forma dinâmica e responsiva. Além disso, a implementação bem-sucedida da funcionalidade de emissão de certificados, com a capacidade de personalizá-los com o nome do participante cadastrado no curso, foi uma conquista significativa. Adicionalmente, a aplicação da responsividade em todas as páginas por meio do CSS demonstrou um cuidado com a experiência do usuário em diferentes dispositivos, contribuindo para a acessibilidade e usabilidade do sistema.
+
+**2. O que não funcionou tão bem durante o sprint?**
+<br>
+Ainda por conta da falta do conhecimento necessário para a execução da página contendo todas as conexões de JavaScript e Banco de Dados integradas. A integração da equipe ficou um pouco afetada por conta da demanda de atividades dessa última etapa de entrega.
+
